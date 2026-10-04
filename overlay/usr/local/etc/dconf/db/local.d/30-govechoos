@@ -1,0 +1,16 @@
+[org/gnome/login-screen]
+banner-message-enable=true
+banner-message-text='Добро пожаловать в GovechoBSD — FreeBSD с GNOME!'
+disable-user-list=false
+[org/gnome/desktop/interface]
+color-scheme='prefer-dark'
+gtk-theme='Adwaita-dark'
+enable-animations=false
+show-battery-percentage=true
+[org/gnome/shell]
+enabled-extensions=['govecho-status@zhbr228']
+disabled-extensions=['apps-menu@gnome-shell-extensions.gcampax.github.com']
+[org/gnome/desktop/background]
+picture-uri='file:///usr/share/gnome-background-properties/govechoos-bg.png'
+[org/gnome/settings-daemon/plugins/color]
+night-light-enabled=true

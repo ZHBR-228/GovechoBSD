@@ -1,0 +1,20 @@
+# Состав GovechoBSD — устанавливается через pkg(8) (автор ZHBR-228)
+# Ядро/загрузчик: FreeBSD 14.1-RELEASE (geneneric + zfs)
+sysutils/zfs-mkcompat
+base.txz kernel.txz
+# GNOME Desktop
+gnome-shell gdm mutter gnome-session gnome-control-center
+gnome-backgrounds gnome-terminal nautilus gedit gnome-calculator
+gnome-system-monitor gnome-settings-daemon gnome-shell-extensions
+desktop/filezilla www/firelight-drm-free
+# Стартовые приложения (ряд govechoOS)
+x11-themes/adwaita-icon-theme graphics/eog audio/sound-juicer
+net/firefox mail/thunderbird office/libreoffice
+multimedia/vlc games/gnome-mines
+# Утилиты
+shells/bash shells/fish sysutils/htop editors/nano
+security/doas net/rsync archivers/p7zip
+# Фирменные компоненты govechoOS (собираются из src/)
+# govinit → /usr/local/sbin, govecho/govwelcome/govctl/govpkg/govzfs → /usr/local/bin
+# Linuxulator-шлюз для flatpak из Debian-мира:
+emulators/linux_base-rl9 flatpak
