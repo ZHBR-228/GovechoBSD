@@ -1,6 +1,5 @@
 @echo off
-rem GovechoBSD Builder - overlay GUI progress on official FreeBSD ISO (ZHBR-228, MIT)
-rem Double-click -> GUI. Or: build_bsd_windows.bat -Console [args]
+rem GovechoBSD Builder launcher (ZHBR-228, MIT)
 setlocal
 cd /d "%~dp0"
 if "%1"=="-Console" ( shift & goto console )
