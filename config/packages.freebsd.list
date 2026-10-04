@@ -6,7 +6,7 @@ base.txz kernel.txz
 gnome-shell gdm mutter gnome-session gnome-control-center
 gnome-backgrounds gnome-terminal nautilus gedit gnome-calculator
 gnome-system-monitor gnome-settings-daemon gnome-shell-extensions
-desktop/filezilla www/firelight-drm-free
+net/filezilla www/firefox-esr
 # Стартовые приложения (ряд govechoOS)
 x11-themes/adwaita-icon-theme graphics/eog audio/sound-juicer
 net/firefox mail/thunderbird office/libreoffice
