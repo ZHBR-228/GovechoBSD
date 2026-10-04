@@ -27,3 +27,12 @@ gtidy                              # «чистота GNOME» одним кли�
 ```
 
 Лицензия MIT · Автор **ZHBR-228** · Родительский проект: [govnechoOS](https://github.com/ZHBR-228/govnechoOS)
+
+
+## 🪟 Сборка ISO из Windows (GovechoBSD)
+
+Двойной щелчок по **`build_bsd_windows.bat`** — ядро FreeBSD придумывать не нужно:
+оно уже внутри официального FreeBSD disc1 ISO, который скрипт скачивает сам.
+Windows-сборщик только «въедает» фирменный слой: `govechoos-installer.cfg`
+(autoinstall: ZFS root + GNOME + ряд стартовых программ pkg) и исходники gov*-утилит,
+после чего пересобирает bootable ISO (xorriso через WSL или cdrtools без него).
