@@ -3,12 +3,12 @@
 .SYNOPSIS
     GovechoBSD - sborka ustanovochnogo ISO FreeBSD na Windows 10/11 (bez WSL!).
 .DESCRIPTION
-    YAdro FreeBSD zdes ni pri ch?m: ono UZHE vnutri ofitsialnogo ISO FreeBSD,
+    YAdro FreeBSD zdes ni pri ch-m: ono UZHE vnutri ofitsialnogo ISO FreeBSD,
     kotoroe skript skachivaet. Zadacha Windows-sborschika - "vest" v obraz nash
     firmennyy sloy: autoinstall-stsenariy (ZFS root + GNOME + startovye prilozheniya
     Govecho) i konfig govechoos-installer.cfg. Dlya etogo dostatochno vstroennyh
     sredstv: Mount-DiskImage, robocopy i .NET IsoBuilder... no ISO9660 s hybrid-MBR
-    Windows ne pishet, poetomu peresborka obraza delaetsya l?gkim vneshnim instrumentom
+    Windows ne pishet, poetomu peresborka obraza delaetsya l-gkim vneshnim instrumentom
     cdimage (7-Zip ne umeet bootable ISO). Skript sam skachivaet nuzhnye utility.
 
     Itog: govechobsd-<ver>-gnome.iso - gibridnyy obraz BIOS+UEFI; pri zagruzke
@@ -119,7 +119,7 @@ sysrc gnome_enable=YES gdm_enable=YES dbus_enable=YES linux_enable=YES zfs_enabl
 echo "Dobro pozhalovat v GovechoBSD!" > /etc/motd
 "@ | Set-Content (Join-Path $src 'govechoos-installer.cfg') -Encoding ASCII
 
-# klad?m ryadom ishodniki C-utilit gov*, chtoby ustanovschik sobral ih na tselevoy sisteme
+# kladem ryadom ishodniki C-utilit gov*, chtoby ustanovschik sobral ih na tselevoy sisteme
 Copy-Item -Recurse -Force (Join-Path $PSScriptRoot '..\src') (Join-Path $src 'govecho-src') -EA SilentlyContinue
 
 # ---------- 4. Peresborka bootable ISO ----------
