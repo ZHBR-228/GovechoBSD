@@ -1,1 +1,180 @@
-I1JlcXVpcmVzIC1WZXJzaW9uIDUuMAo8IwouU1lOT1BTSVMKICAgIEdvdmVjaG9CU0QgQnVpbGRlciBHVUkg4oCUINC80LjQvdC4LdC/0YDQuNC70L7QttC10L3QuNC1INGBINC40L3RgtC10YDRhNC10LnRgdC+0Lwg0Lgg0L/RgNC+0LPRgNC10YHRgdC+0Lwg0YHQsdC+0YDQutC4IElTTyBGcmVlQlNELgouREVTQ1JJUFRJT04KICAgINCe0LrQvdC+IChXUEYsINCx0LXQtyDQstC90LXRiNC90LjRhSDQt9Cw0LLQuNGB0LjQvNC+0YHRgtC10LkpOiDQv9GA0L7RhtC10L3RgiArINC/0YDQvtCz0YDQtdGB0YEt0LHQsNGALCDRgtC10LrRg9GJ0LDRjyDRhNCw0LfQsCwKICAgINC20LjQstC+0Lkg0LvQvtCzLCDQutC90L7Qv9C60LggwqvQodC+0LHRgNCw0YLRjCAvINCe0YLQvNC10L3QsCAvINCf0LDQv9C60LAg0YHQsdC+0YDQutC4wrsuINCv0LTRgNC+IEZyZWVCU0Qg0YPQttC1INCy0L3Rg9GC0YDQuAogICAg0L7RhNC40YbQuNCw0LvRjNC90L7Qs9C+IElTTyDigJQg0YHQutGA0LjQv9GCINGC0L7Qu9GM0LrQviDQvdCw0YHQu9Cw0LjQstCw0LXRgiBnb3ZlY2hvb3Mt0LrQvtC90YTQuNCzINC4INC/0LXRgNC10YHQvtCx0LjRgNCw0LXRgiDQvtCx0YDQsNC3LgogICAg0KDQsNCx0L7RgtCw0LXRgiDRgSBidWlsZF9ic2Rfd2luZG93cy5wczEg0YfQtdGA0LXQtyDQv9GA0L7RgtC+0LrQvtC7ICJQUk9HUkVTU3w8MC0xMDA+fDzRhNCw0LfQsD4iLgoKICAgINCQ0LLRgtC+0YA6IFpIQlItMjI4IMK3INCb0LjRhtC10L3Qt9C40Y86IE1JVCDCtyBnaXRodWIuY29tL1pIQlItMjI4L0dvdmVjaG9CU0QKIz4KcGFyYW0oCiAgICBbc3RyaW5nXSRCdWlsZGVyID0gJycKKQokRXJyb3JBY3Rpb25QcmVmZXJlbmNlID0gJ1N0b3AnCgpBZGQtVHlwZSAtQXNzZW1ibHlOYW1lIFByZXNlbnRhdGlvbkZyYW1ld29yaywgUHJlc2VudGF0aW9uQ29yZSwgV2luZG93c0Jhc2UKCiMgLS0tLS0tLS0tLSDQmtC+0L3RgdC+0LvRjNC90YvQuSDRgNC10LbQuNC8ICjQtNC70Y8g0YLQtdGB0YLQvtCyL9GB0LXRgNCy0LXRgNC+0LIg0LHQtdC3IEdVSSkgLS0tLS0tLS0tLQppZiAoJGVudjpHT1ZFQ0hPX0dVSSAtZXEgJ2NvbnNvbGUnKSB7CiAgICAmICRCdWlsZGVyIC1HdWlQcm90b2NvbAogICAgZXhpdCAkTEFTVEVYSVRDT0RFCn0KCiRYQU1MID0gQCcKPFdpbmRvdyB4bWxucz0iaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93aW5meC8yMDA2L3hhbWwvcHJlc2VudGF0aW9uIgogICAgICAgIHhtbG5zOng9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd2luZngvMjAwNi94YW1sIgogICAgICAgIFRpdGxlPSJHb3ZlY2hvQlNEIEJ1aWxkZXIiIEhlaWdodD0iNTQwIiBXaWR0aD0iNzQwIiBNaW5IZWlnaHQ9IjQwMCIgTWluV2lkdGg9IjU4MCIKICAgICAgICBCYWNrZ3JvdW5kPSIjMWMyMDMwIiBXaW5kb3dTdGFydHVwTG9jYXRpb249IkNlbnRlclNjcmVlbiI+CiAgPEdyaWQgTWFyZ2luPSIxNCI+CiAgICA8R3JpZC5Sb3dEZWZpbml0aW9ucz4KICAgICAgPFJvd0RlZmluaXRpb24gSGVpZ2h0PSJBdXRvIi8+CiAgICAgIDxSb3dEZWZpbml0aW9uIEhlaWdodD0iQXV0byIvPgogICAgICA8Um93RGVmaW5pdGlvbiBIZWlnaHQ9IioiLz4KICAgICAgPFJvd0RlZmluaXRpb24gSGVpZ2h0PSJBdXRvIi8+CiAgICA8L0dyaWQuUm93RGVmaW5pdGlvbnM+CiAgICA8U3RhY2tQYW5lbCBHcmlkLlJvdz0iMCIgT3JpZW50YXRpb249Ikhvcml6b250YWwiPgogICAgICA8VGV4dEJsb2NrIFRleHQ9IkdPVkVDSE8iIEZvbnRTaXplPSIzMCIgRm9udFdlaWdodD0iQm9sZCIgRm9yZWdyb3VuZD0iI2ZmOWQ1YyIvPgogICAgICA8VGV4dEJsb2NrIFRleHQ9IkJTRCBCdWlsZGVyIiBGb250U2l6ZT0iMzAiIEZvcmVncm91bmQ9IiNkZGRkZGQiIE1hcmdpbj0iOCwwLDAsMCIvPgogICAgICA8VGV4dEJsb2NrIHg6TmFtZT0iVHh0VmVyIiBUZXh0PSIiIEZvbnRTaXplPSIxNCIgRm9yZWdyb3VuZD0iIzg4ODhhYSIKICAgICAgICAgICAgICAgICBWZXJ0aWNhbEFsaWdubWVudD0iQm90dG9tIiBNYXJnaW49IjEwLDAsMCw2Ii8+CiAgICA8L1N0YWNrUGFuZWw+CiAgICA8Qm9yZGVyIEdyaWQuUm93PSIxIiBCYWNrZ3JvdW5kPSIjMjUyYTQwIiBDb3JuZXJSYWRpdXM9IjgiIFBhZGRpbmc9IjEyIiBNYXJnaW49IjAsMTIsMCwwIj4KICAgICAgPFN0YWNrUGFuZWw+CiAgICAgICAgPERvY2tQYW5lbD4KICAgICAgICAgIDxUZXh0QmxvY2sgeDpOYW1lPSJUeHRQaGFzZSIgRG9ja1BhbmVsLkRvY2s9IkxlZnQiIFRleHQ9ItCT0L7RgtC+0LIg0Log0YHQsdC+0YDQutC1IgogICAgICAgICAgICAgICAgICAgICBGb250U2l6ZT0iMTYiIEZvcmVncm91bmQ9IiNmZmZmZmYiLz4KICAgICAgICAgIDxUZXh0QmxvY2sgeDpOYW1lPSJUeHRQY3QiIERvY2tQYW5lbC5Eb2NrPSJSaWdodCIgVGV4dD0iMCUiCiAgICAgICAgICAgICAgICAgICAgIEZvbnRTaXplPSIyNiIgRm9udFdlaWdodD0iQm9sZCIgRm9yZWdyb3VuZD0iI2ZmOWQ1YyIvPgogICAgICAgIDwvRG9ja1BhbmVsPgogICAgICAgIDxQcm9ncmVzc0JhciB4Ok5hbWU9IkJhciIgSGVpZ2h0PSIxNiIgTWluaW11bT0iMCIgTWF4aW11bT0iMTAwIiBWYWx1ZT0iMCIKICAgICAgICAgICAgICAgICAgICAgRm9yZWdyb3VuZD0iI2U4NzM0YSIgQmFja2dyb3VuZD0iIzNhM2Y1YyIgQm9yZGVyVGhpY2tuZXNzPSIwIiBNYXJnaW49IjAsOCwwLDAiLz4KICAgICAgICA8VGV4dEJsb2NrIHg6TmFtZT0iVHh0SGludCIgVGV4dD0iIiBGb3JlZ3JvdW5kPSIjOWFhMGMwIiBGb250U2l6ZT0iMTIiIE1hcmdpbj0iMCw2LDAsMCIKICAgICAgICAgICAgICAgICAgIFRleHRXcmFwcGluZz0iV3JhcCIvPgogICAgICA8L1N0YWNrUGFuZWw+CiAgICA8L0JvcmRlcj4KICAgIDxCb3JkZXIgR3JpZC5Sb3c9IjIiIEJhY2tncm91bmQ9IiMxMjE2MWYiIENvcm5lclJhZGl1cz0iOCIgUGFkZGluZz0iNiIgTWFyZ2luPSIwLDEwLDAsMCI+CiAgICAgIDxUZXh0Qm94IHg6TmFtZT0iVHh0TG9nIiBJc1JlYWRPbmx5PSJUcnVlIiBCYWNrZ3JvdW5kPSJUcmFuc3BhcmVudCIgRm9yZWdyb3VuZD0iI2MwZTBjMCIKICAgICAgICAgICAgICAgRm9udEZhbWlseT0iQ29uc29sYXMiIEZvbnRTaXplPSIxMiIgQm9yZGVyVGhpY2tuZXNzPSIwIgogICAgICAgICAgICAgICBWZXJ0aWNhbFNjcm9sbEJhclZpc2liaWxpdHk9IkF1dG8iIFRleHRXcmFwcGluZz0iV3JhcCIvPgogICAgPC9Cb3JkZXI+CiAgICA8U3RhY2tQYW5lbCBHcmlkLlJvdz0iMyIgT3JpZW50YXRpb249Ikhvcml6b250YWwiIEhvcml6b250YWxBbGlnbm1lbnQ9IlJpZ2h0IiBNYXJnaW49IjAsMTAsMCwwIj4KICAgICAgPEJ1dHRvbiB4Ok5hbWU9IkJ0bk9wZW4iIENvbnRlbnQ9IvCfk4Ig0J/QsNC/0LrQsCDRgdCx0L7RgNC60LgiIFdpZHRoPSIxMzAiIEhlaWdodD0iMzAiIE1hcmdpbj0iMCwwLDgsMCIKICAgICAgICAgICAgICBCYWNrZ3JvdW5kPSIjM2EzZjVjIiBGb3JlZ3JvdW5kPSIjZWVlZWVlIiBCb3JkZXJUaGlja25lc3M9IjAiLz4KICAgICAgPEJ1dHRvbiB4Ok5hbWU9IkJ0bkNhbmNlbCIgQ29udGVudD0i4pyWINCe0YLQvNC10L3QsCIgV2lkdGg9IjEwMCIgSGVpZ2h0PSIzMCIgTWFyZ2luPSIwLDAsOCwwIgogICAgICAgICAgICAgIEJhY2tncm91bmQ9IiM2ZTM0MzQiIEZvcmVncm91bmQ9IiNmZmZmZmYiIEJvcmRlclRoaWNrbmVzcz0iMCIgSXNFbmFibGVkPSJGYWxzZSIvPgogICAgICA8QnV0dG9uIHg6TmFtZT0iQnRuUnVuIiBDb250ZW50PSLilrYg0KHQvtCx0YDQsNGC0YwgSVNPIiBXaWR0aD0iMTQwIiBIZWlnaHQ9IjMwIgogICAgICAgICAgICAgIEJhY2tncm91bmQ9IiNlODczNGEiIEZvcmVncm91bmQ9IiNmZmZmZmYiIEZvbnRXZWlnaHQ9IkJvbGQiIEJvcmRlclRoaWNrbmVzcz0iMCIvPgogICAgPC9TdGFja1BhbmVsPgogIDwvR3JpZD4KPC9XaW5kb3c+CidACiRyZWFkZXIgPSBOZXctT2JqZWN0IFN5c3RlbS5YbWwuWG1sTm9kZVJlYWRlciAoW3htbF0kWEFNTCkKJHdpbiA9IFtXaW5kb3dzLk1hcmt1cC5YYW1sUmVhZGVyXTo6TG9hZCgkcmVhZGVyKQokVHh0UGhhc2U9JHdpbi5GaW5kTmFtZSgnVHh0UGhhc2UnKTsgJFR4dFBjdD0kd2luLkZpbmROYW1lKCdUeHRQY3QnKQokQmFyPSR3aW4uRmluZE5hbWUoJ0JhcicpOyAgICAgICAgICAgJFR4dEhpbnQ9JHdpbi5GaW5kTmFtZSgnVHh0SGludCcpCiRUeHRMb2c9JHdpbi5GaW5kTmFtZSgnVHh0TG9nJyk7ICAgICAkQnRuUnVuPSR3aW4uRmluZE5hbWUoJ0J0blJ1bicpCiRCdG5DYW5jZWw9JHdpbi5GaW5kTmFtZSgnQnRuQ2FuY2VsJyk7ICRCdG5PcGVuPSR3aW4uRmluZE5hbWUoJ0J0bk9wZW4nKQokVHh0VmVyPSR3aW4uRmluZE5hbWUoJ1R4dFZlcicpCgokcm9vdCA9IEpvaW4tUGF0aCAkUFNTY3JpcHRSb290ICcuLicKaWYgKC1ub3QgJEJ1aWxkZXIpIHsgJEJ1aWxkZXIgPSBKb2luLVBhdGggJFBTU2NyaXB0Um9vdCAnYnVpbGRfYnNkX3dpbmRvd3MucHMxJyB9CiR2ZXJGaWxlID0gSm9pbi1QYXRoICRyb290ICdWRVJTSU9OJwppZiAoVGVzdC1QYXRoICR2ZXJGaWxlKSB7ICRUeHRWZXIuVGV4dCA9ICd2JyArIChHZXQtQ29udGVudCAkdmVyRmlsZSAtUmF3KS5UcmltKCkgfQokV29ya0RpciA9IEpvaW4tUGF0aCAkZW52OlVTRVJQUk9GSUxFICdnb3ZlY2hvX2JzZF9idWlsZCcKCmZ1bmN0aW9uIFNldC1Qcm9ncmVzcyhbZG91YmxlXSRwY3QsW3N0cmluZ10kcGhhc2UpewogICAgaWYoJHBjdCAtbHQgMCl7JHBjdD0wfTsgaWYoJHBjdCAtZ3QgMTAwKXskcGN0PTEwMH0KICAgICRCYXIuVmFsdWU9JHBjdDsgJFR4dFBjdC5UZXh0PSIkKFttYXRoXTo6Um91bmQoJHBjdCkpJSIKICAgIGlmKCRwaGFzZSl7JFR4dFBoYXNlLlRleHQ9JHBoYXNlfQp9CmZ1bmN0aW9uIEFkZC1Mb2coW3N0cmluZ10kcyl7IGlmKCRzKXsgJFR4dExvZy5BcHBlbmRUZXh0KCRzKyJgcmBuIik7ICRUeHRMb2cuU2Nyb2xsVG9FbmQoKSB9IH0KCiRqb2I9JG51bGw7ICRsYXN0UGN0PTAuMAoKJEJ0blJ1bi5BZGRfQ2xpY2soewogICAgaWYoJGpvYil7cmV0dXJufQogICAgJFR4dExvZy5DbGVhcigpOyBTZXQtUHJvZ3Jlc3MgMSAn0JfQsNC/0YPRgdC6Li4uJwogICAgJEJ0blJ1bi5Jc0VuYWJsZWQ9JGZhbHNlOyAkQnRuQ2FuY2VsLklzRW5hYmxlZD0kdHJ1ZQogICAgJGI9J3Bvd2Vyc2hlbGwnOyBpZihHZXQtQ29tbWFuZCBwd3NoIC1FQSBTaWxlbnRseUNvbnRpbnVlKXskYj0ncHdzaCd9CiAgICAkYXJncz1AKCctTm9Qcm9maWxlJywnLUV4ZWN1dGlvblBvbGljeScsJ0J5cGFzcycsJy1GaWxlJywkQnVpbGRlciwnLUd1aVByb3RvY29sJykKICAgICRqb2IgPSBTdGFydC1Kb2IgLVNjcmlwdEJsb2NrIHsKICAgICAgICBwYXJhbSgkZXhlLCRhKQogICAgICAgICRwc2k9TmV3LU9iamVjdCBTeXN0ZW0uRGlhZ25vc3RpY3MuUHJvY2Vzc1N0YXJ0SW5mbwogICAgICAgICRwc2kuRmlsZU5hbWU9JGV4ZQogICAgICAgICRwc2kuQXJndW1lbnRzPSgkYXwleyBpZigkXyAtbWF0Y2ggJ1xzJyl7IickXycifWVsc2V7JF99IH0pIC1qb2luICcgJwogICAgICAgICRwc2kuUmVkaXJlY3RTdGFuZGFyZE91dHB1dD0kdHJ1ZTsgJHBzaS5SZWRpcmVjdFN0YW5kYXJkRXJyb3I9JHRydWUKICAgICAgICAkcHNpLlVzZVNoZWxsRXhlY3V0ZT0kZmFsc2UKICAgICAgICAkcD1bU3lzdGVtLkRpYWdub3N0aWNzLlByb2Nlc3NdOjpTdGFydCgkcHNpKQogICAgICAgIHdoaWxlKC1ub3QgJHAuU3RhbmRhcmRPdXRwdXQuRW5kT2ZTdHJlYW0peyBXcml0ZS1PdXRwdXQgJHAuU3RhbmRhcmRPdXRwdXQuUmVhZExpbmUoKSB9CiAgICAgICAgd2hpbGUoLW5vdCAkcC5TdGFuZGFyZEVycm9yLkVuZE9mU3RyZWFtKXsgV3JpdGUtT3V0cHV0ICgnRVJSfCcrJHAuU3RhbmRhcmRFcnJvci5SZWFkTGluZSgpKSB9CiAgICAgICAgJHAuV2FpdEZvckV4aXQoKTsgV3JpdGUtT3V0cHV0ICgnRVhJVHwnKyRwLkV4aXRDb2RlKQogICAgfSAtQXJndW1lbnRMaXN0ICRiLCRhcmdzCiAgICBBZGQtTG9nICfQodCx0L7RgNC60LAg0LfQsNC/0YPRidC10L3QsCAo0Y/QtNGA0L4gRnJlZUJTRCDRg9C20LUg0LIg0LHQsNC30L7QstC+0LwgSVNPIOKAlCDQvtGB0YLQsNGR0YLRgdGPINC90LDRgdC70LDQuNCy0LDQvdC40LUpLicKfSkKJEJ0bkNhbmNlbC5BZGRfQ2xpY2soeyBpZigkam9iKXsgU3RvcC1Kb2IgJGpvYjsgQWRkLUxvZyAn0J7RgtC80LXQvdC10L3QviDQv9C+0LvRjNC30L7QstCw0YLQtdC70LXQvC4nOyBTZXQtUHJvZ3Jlc3MgMCAn0J7RgtC80LXQvdC10L3QvicgfSB9KQokQnRuT3Blbi5BZGRfQ2xpY2soewogICAgaWYoLW5vdChUZXN0LVBhdGggJFdvcmtEaXIpKXtOZXctSXRlbSAtSXRlbVR5cGUgRGlyZWN0b3J5IC1Gb3JjZSAtUGF0aCAkV29ya0RpcnxPdXQtTnVsbH0KICAgIFN0YXJ0LVByb2Nlc3MgZXhwbG9yZXIuZXhlICRXb3JrRGlyCn0pCgokdGltZXI9TmV3LU9iamVjdCBTeXN0ZW0uV2luZG93cy5UaHJlYWRpbmcuRGlzcGF0Y2hlclRpbWVyCiR0aW1lci5JbnRlcnZhbD1bVGltZVNwYW5dOjpGcm9tTWlsbGlzZWNvbmRzKDQwMCkKJHRpbWVyLkFkZF9UaWNrKHsKICAgIGlmKC1ub3QgJGpvYil7cmV0dXJufQogICAgZm9yZWFjaCgkbGluZSBpbiBAKFJlY2VpdmUtSm9iICRqb2IpKXsKICAgICAgICAkcz0iJGxpbmUiCiAgICAgICAgaWYoJHMgLWxpa2UgJ1BST0dSRVNTfConKXsKICAgICAgICAgICAgJHBhcnRzPSRzLlNwbGl0KCd8Jyk7ICRwY3Q9MC4wOyBbZG91YmxlXTo6VHJ5UGFyc2UoJHBhcnRzWzFdLFtyZWZdJHBjdCl8T3V0LU51bGwKICAgICAgICAgICAgJHBoPWlmKCRwYXJ0cy5MZW5ndGggLWd0IDIpeyRwYXJ0c1syXX1lbHNleycnfQogICAgICAgICAgICBTZXQtUHJvZ3Jlc3MgJHBjdCAkcGg7ICRsYXN0UGN0PSRwY3Q7IEFkZC1Mb2cgIlskKFttYXRoXTo6Um91bmQoJHBjdCkpJV0gJHBoIgogICAgICAgIH0gZWxzZWlmKCRzIC1saWtlICdFUlJ8KicpeyBBZGQtTG9nICgn4pqgICcrJHMuU3Vic3RyaW5nKDQpKSB9CiAgICAgICAgZWxzZWlmKCRzIC1saWtlICdFWElUfConKXsKICAgICAgICAgICAgJGNvZGU9W2ludF0oJHMuU3BsaXQoJ3wnKVsxXSk7ICR0aW1lci5TdG9wKCkKICAgICAgICAgICAgJEJ0blJ1bi5Jc0VuYWJsZWQ9JHRydWU7ICRCdG5DYW5jZWwuSXNFbmFibGVkPSRmYWxzZQogICAgICAgICAgICBpZigkY29kZSAtZXEgMCl7CiAgICAgICAgICAgICAgICBTZXQtUHJvZ3Jlc3MgMTAwICfinJMg0KHQsdC+0YDQutCwINC30LDQstC10YDRiNC10L3QsCEnCiAgICAgICAgICAgICAgICAkVHh0SGludC5UZXh0PSJJU08g0LPQvtGC0L7QsiDQsiDQv9Cw0L/QutC1OiAkV29ya0RpciIKICAgICAgICAgICAgICAgIEFkZC1Mb2cgJz09PSDQk9Ce0KLQntCS0J4uINCk0LvQtdGI0LrRgyDQv9C40YjQuNGC0LUg0YHQsNC80Lg6IFJ1ZnVzL1ZlbnRveS9iYWxlbmFFdGNoZXIuID09PScKICAgICAgICAgICAgICAgIHRyeXsgU3RhcnQtUHJvY2VzcyBleHBsb3Jlci5leGUgKCInL3NlbGVjdCwiKyhKb2luLVBhdGggJFdvcmtEaXIgKChHZXQtQ2hpbGRJdGVtICRXb3JrRGlyIC1GaWx0ZXIgJyouaXNvJyAtRUEgU2lsZW50bHlDb250aW51ZXxTb3J0LU9iamVjdCBMYXN0V3JpdGVUaW1lIC1EZXNjZW5kaW5nfFNlbGVjdC1PYmplY3QgLUZpcnN0IDEpLkZ1bGxOYW1lKSkrIiciKSB9Y2F0Y2h7fQogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgU2V0LVByb2dyZXNzICRsYXN0UGN0ICgn4pyWINCe0YjQuNCx0LrQsCDRgdCx0L7RgNC60LggKNC60L7QtCAnKyRjb2RlKycpJykKICAgICAgICAgICAgICAgIEFkZC1Mb2cgItCe0YjQuNCx0LrQsC4g0JrQvtC0INCy0YvRhdC+0LTQsDogJGNvZGUiCiAgICAgICAgICAgIH0KICAgICAgICAgICAgUmVtb3ZlLUpvYiAkam9iIC1Gb3JjZSAtRUEgU2lsZW50bHlDb250aW51ZTsgJGpvYj0kbnVsbAogICAgICAgIH0gZWxzZWlmKCRzKXsgQWRkLUxvZyAkcyB9CiAgICB9Cn0pCiR3aW4uQWRkX0Nsb3NlZCh7IGlmKCRzY3JpcHQ6am9iKXsgU3RvcC1Kb2IgJHNjcmlwdDpqb2IgLUVBIFNpbGVudGx5Q29udGludWUgfSB9KQokVHh0SGludC5UZXh0PSfQn9C+0LTRgdC60LDQt9C60LA6INGB0LrQsNGH0LjQstCw0LXRgtGB0Y8g0L7RhNC40YbQuNCw0LvRjNC90YvQuSBJU08gRnJlZUJTRCAofjYwMCDQnNCRKSwg0LTQvtCx0LDQstC70Y/QtdGC0YHRjyDQutC+0L3RhNC40LMgR292ZWNobyAoWkZTIHJvb3QgKyBHTk9NRSArINGB0YLQsNGA0YLQvtCy0YvQtSDQv9GA0LjQu9C+0LbQtdC90LjRjyksINC/0LXRgNC10YHQvtCx0LjRgNCw0LXRgtGB0Y8gYm9vdGFibGUgSVNPLiDQl9Cw0L/QuNGB0Ywg0L3QsCDQvdC+0YHQuNGC0LXQu9C4INGB0LrRgNC40L/RgiDQndCVINCy0YvQv9C+0LvQvdGP0LXRgi4nCiR0aW1lci5TdGFydCgpCiR3aW4uU2hvd0RpYWxvZygpfE91dC1OdWxsCg==
+﻿#Requires -Version 5.0
+# ============================================================
+# САМОДЕКОДИРУЮЩИЙСЯ ЗАПУСКЧИК (fixes "окно открывается на миллисекунды"):
+# Если .ps1 сохранён без BOM и содержит кириллицу, Windows PowerShell 5.1
+# читает его как ANSI(cp1251), код ломается и скрипт мгновенно завершается.
+# При первом запуске файл сам перезаписывает себя с UTF-8 BOM и перезапускается.
+if ($args[0] -ne '-Relaunched') {
+    $f = $MyInvocation.MyCommand.Path
+    if (-not $f) { $f = (Resolve-Path '.\build_gui_bsd.ps1').Path }
+    $bytes = [IO.File]::ReadAllBytes($f)
+    if (-not ($bytes.Length -ge 3 -and $bytes[0] -eq 0xEF -and $bytes[1] -eq 0xBB -and $bytes[2] -eq 0xBF)) {
+        $text = [Text.Encoding]::UTF8.GetString($bytes)
+        [IO.File]::WriteAllBytes($f, [byte[]](0xEF,0xBB,0xBF) + [Text.Encoding]::UTF8.GetBytes($text))
+        $exe = if (Get-Command pwsh -EA SilentlyContinue) { 'pwsh' } else { 'powershell' }
+        Start-Process -FilePath $exe -ArgumentList @('-NoProfile','-ExecutionPolicy','Bypass','-File', "`"$f`"", '-Relaunched') -WindowStyle Hidden
+        exit 0
+    }
+}
+<#
+.SYNOPSIS
+    GovechoBSD Builder GUI — мини-приложение с интерфейсом и прогрессом сборки ISO FreeBSD.
+.DESCRIPTION
+    Окно (WPF, без внешних зависимостей): процент + прогресс-бар, текущая фаза,
+    живой лог, кнопки «Собрать / Отмена / Папка сборки». Ядро FreeBSD уже внутри
+    официального ISO — скрипт только наслаивает govechoos-конфиг и пересобирает образ.
+    Работает с build_bsd_windows.ps1 через протокол "PROGRESS|<0-100>|<фаза>".
+
+    Автор: ZHBR-228 · Лицензия: MIT · github.com/ZHBR-228/GovechoBSD
+#>
+param(
+    [string]$Relaunched = '',   # служебный: метка перезапуска после самодекодирования
+    [string]$Builder = ''
+)
+$ErrorActionPreference = 'Stop'
+# Страховка: любая ошибка покажет диалог с текстом причины, а не закроет окно молча
+trap {
+    Add-Type -AssemblyName System.Windows.Forms
+    $msg = 'Ошибка запуска Govecho Builder:' + [Environment]::NewLine + $_.Exception.Message +
+           [Environment]::NewLine + [Environment]::NewLine + 'Запустите вручную из PowerShell:' +
+           [Environment]::NewLine + 'powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\build_gui_bsd.ps1
+    [void][System.Windows.Forms.MessageBox]::Show($msg, 'Govecho Builder', 'OK', 'Error')
+    exit 1
+}
+
+Add-Type -AssemblyName PresentationFramework, PresentationCore, WindowsBase
+
+# ---------- Консольный режим (для тестов/серверов без GUI) ----------
+if ($env:GOVECHO_GUI -eq 'console') {
+    & $Builder -GuiProtocol
+    exit $LASTEXITCODE
+}
+
+$XAML = @'
+<Window xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="GovechoBSD Builder" Height="540" Width="740" MinHeight="400" MinWidth="580"
+        Background="#1c2030" WindowStartupLocation="CenterScreen">
+  <Grid Margin="14">
+    <Grid.RowDefinitions>
+      <RowDefinition Height="Auto"/>
+      <RowDefinition Height="Auto"/>
+      <RowDefinition Height="*"/>
+      <RowDefinition Height="Auto"/>
+    </Grid.RowDefinitions>
+    <StackPanel Grid.Row="0" Orientation="Horizontal">
+      <TextBlock Text="GOVECHO" FontSize="30" FontWeight="Bold" Foreground="#ff9d5c"/>
+      <TextBlock Text="BSD Builder" FontSize="30" Foreground="#dddddd" Margin="8,0,0,0"/>
+      <TextBlock x:Name="TxtVer" Text="" FontSize="14" Foreground="#8888aa"
+                 VerticalAlignment="Bottom" Margin="10,0,0,6"/>
+    </StackPanel>
+    <Border Grid.Row="1" Background="#252a40" CornerRadius="8" Padding="12" Margin="0,12,0,0">
+      <StackPanel>
+        <DockPanel>
+          <TextBlock x:Name="TxtPhase" DockPanel.Dock="Left" Text="Готов к сборке"
+                     FontSize="16" Foreground="#ffffff"/>
+          <TextBlock x:Name="TxtPct" DockPanel.Dock="Right" Text="0%"
+                     FontSize="26" FontWeight="Bold" Foreground="#ff9d5c"/>
+        </DockPanel>
+        <ProgressBar x:Name="Bar" Height="16" Minimum="0" Maximum="100" Value="0"
+                     Foreground="#e8734a" Background="#3a3f5c" BorderThickness="0" Margin="0,8,0,0"/>
+        <TextBlock x:Name="TxtHint" Text="" Foreground="#9aa0c0" FontSize="12" Margin="0,6,0,0"
+                   TextWrapping="Wrap"/>
+      </StackPanel>
+    </Border>
+    <Border Grid.Row="2" Background="#12161f" CornerRadius="8" Padding="6" Margin="0,10,0,0">
+      <TextBox x:Name="TxtLog" IsReadOnly="True" Background="Transparent" Foreground="#c0e0c0"
+               FontFamily="Consolas" FontSize="12" BorderThickness="0"
+               VerticalScrollBarVisibility="Auto" TextWrapping="Wrap"/>
+    </Border>
+    <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,10,0,0">
+      <Button x:Name="BtnOpen" Content="📂 Папка сборки" Width="130" Height="30" Margin="0,0,8,0"
+              Background="#3a3f5c" Foreground="#eeeeee" BorderThickness="0"/>
+      <Button x:Name="BtnCancel" Content="✖ Отмена" Width="100" Height="30" Margin="0,0,8,0"
+              Background="#6e3434" Foreground="#ffffff" BorderThickness="0" IsEnabled="False"/>
+      <Button x:Name="BtnRun" Content="▶ Собрать ISO" Width="140" Height="30"
+              Background="#e8734a" Foreground="#ffffff" FontWeight="Bold" BorderThickness="0"/>
+    </StackPanel>
+  </Grid>
+</Window>
+'@
+$reader = New-Object System.Xml.XmlNodeReader ([xml]$XAML)
+$win = [Windows.Markup.XamlReader]::Load($reader)
+$TxtPhase=$win.FindName('TxtPhase'); $TxtPct=$win.FindName('TxtPct')
+$Bar=$win.FindName('Bar');           $TxtHint=$win.FindName('TxtHint')
+$TxtLog=$win.FindName('TxtLog');     $BtnRun=$win.FindName('BtnRun')
+$BtnCancel=$win.FindName('BtnCancel'); $BtnOpen=$win.FindName('BtnOpen')
+$TxtVer=$win.FindName('TxtVer')
+
+$root = Join-Path $PSScriptRoot '..'
+if (-not $Builder) { $Builder = Join-Path $PSScriptRoot 'build_bsd_windows.ps1' }
+$verFile = Join-Path $root 'VERSION'
+if (Test-Path $verFile) { $TxtVer.Text = 'v' + (Get-Content $verFile -Raw).Trim() }
+$WorkDir = Join-Path $env:USERPROFILE 'govecho_bsd_build'
+
+function Set-Progress([double]$pct,[string]$phase){
+    if($pct -lt 0){$pct=0}; if($pct -gt 100){$pct=100}
+    $Bar.Value=$pct; $TxtPct.Text="$([math]::Round($pct))%"
+    if($phase){$TxtPhase.Text=$phase}
+}
+function Add-Log([string]$s){ if($s){ $TxtLog.AppendText($s+"`r`n"); $TxtLog.ScrollToEnd() } }
+
+$job=$null; $lastPct=0.0
+
+$BtnRun.Add_Click({
+    if($job){return}
+    $TxtLog.Clear(); Set-Progress 1 'Запуск...'
+    $BtnRun.IsEnabled=$false; $BtnCancel.IsEnabled=$true
+    $b='powershell'; if(Get-Command pwsh -EA SilentlyContinue){$b='pwsh'}
+    $args=@('-NoProfile','-ExecutionPolicy','Bypass','-File',$Builder,'-GuiProtocol')
+    $job = Start-Job -ScriptBlock {
+        param($exe,$a)
+        $psi=New-Object System.Diagnostics.ProcessStartInfo
+        $psi.FileName=$exe
+        $psi.Arguments=($a|%{ if($_ -match '\s'){"'$_'"}else{$_} }) -join ' '
+        $psi.RedirectStandardOutput=$true; $psi.RedirectStandardError=$true
+        $psi.UseShellExecute=$false
+        $p=[System.Diagnostics.Process]::Start($psi)
+        while(-not $p.StandardOutput.EndOfStream){ Write-Output $p.StandardOutput.ReadLine() }
+        while(-not $p.StandardError.EndOfStream){ Write-Output ('ERR|'+$p.StandardError.ReadLine()) }
+        $p.WaitForExit(); Write-Output ('EXIT|'+$p.ExitCode)
+    } -ArgumentList $b,$args
+    Add-Log 'Сборка запущена (ядро FreeBSD уже в базовом ISO — остаётся наслаивание).'
+})
+$BtnCancel.Add_Click({ if($job){ Stop-Job $job; Add-Log 'Отменено пользователем.'; Set-Progress 0 'Отменено' } })
+$BtnOpen.Add_Click({
+    if(-not(Test-Path $WorkDir)){New-Item -ItemType Directory -Force -Path $WorkDir|Out-Null}
+    Start-Process explorer.exe $WorkDir
+})
+
+$timer=New-Object System.Windows.Threading.DispatcherTimer
+$timer.Interval=[TimeSpan]::FromMilliseconds(400)
+$timer.Add_Tick({
+    if(-not $job){return}
+    foreach($line in @(Receive-Job $job)){
+        $s="$line"
+        if($s -like 'PROGRESS|*'){
+            $parts=$s.Split('|'); $pct=0.0; [double]::TryParse($parts[1],[ref]$pct)|Out-Null
+            $ph=if($parts.Length -gt 2){$parts[2]}else{''}
+            Set-Progress $pct $ph; $lastPct=$pct; Add-Log "[$([math]::Round($pct))%] $ph"
+        } elseif($s -like 'ERR|*'){ Add-Log ('⚠ '+$s.Substring(4)) }
+        elseif($s -like 'EXIT|*'){
+            $code=[int]($s.Split('|')[1]); $timer.Stop()
+            $BtnRun.IsEnabled=$true; $BtnCancel.IsEnabled=$false
+            if($code -eq 0){
+                Set-Progress 100 '✓ Сборка завершена!'
+                $TxtHint.Text="ISO готов в папке: $WorkDir"
+                Add-Log '=== ГОТОВО. Флешку пишите сами: Rufus/Ventoy/balenaEtcher. ==='
+                try{ Start-Process explorer.exe ("'/select,"+(Join-Path $WorkDir ((Get-ChildItem $WorkDir -Filter '*.iso' -EA SilentlyContinue|Sort-Object LastWriteTime -Descending|Select-Object -First 1).FullName))+"'") }catch{}
+            } else {
+                Set-Progress $lastPct ('✖ Ошибка сборки (код '+$code+')')
+                Add-Log "Ошибка. Код выхода: $code"
+            }
+            Remove-Job $job -Force -EA SilentlyContinue; $job=$null
+        } elseif($s){ Add-Log $s }
+    }
+})
+$win.Add_Closed({ if($script:job){ Stop-Job $script:job -EA SilentlyContinue } })
+$TxtHint.Text='Подсказка: скачивается официальный ISO FreeBSD (~600 МБ), добавляется конфиг Govecho (ZFS root + GNOME + стартовые приложения), пересобирается bootable ISO. Запись на носители скрипт НЕ выполняет.'
+$timer.Start()
+$win.ShowDialog()|Out-Null
