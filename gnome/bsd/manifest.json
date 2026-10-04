@@ -1,0 +1,29 @@
+{
+ "version": "1.1.0",
+ "files": [
+  {
+   "src": "gnome/bsd/custom.conf",
+   "dst": "govecho/gdm/custom.conf"
+  },
+  {
+   "src": "gnome/bsd/govechoBSD-wayland.desktop",
+   "dst": "govecho/sessions/govechoBSD-wayland.desktop"
+  },
+  {
+   "src": "gnome/bsd/govechoBSD-xorg.desktop",
+   "dst": "govecho/sessions/govechoBSD-xorg.desktop"
+  },
+  {
+   "src": "gnome/bsd/govechoBSD-welcome.desktop",
+   "dst": "govecho/autostart/govechoBSD-welcome.desktop"
+  },
+  {
+   "src": "gnome/bsd/govechoBSD-about.desktop",
+   "dst": "govecho/applications/govechoBSD-about.desktop"
+  },
+  {
+   "src": "gnome/bsd/30-govechoos",
+   "dst": "govecho/dconf/30-govechoos"
+  }
+ ]
+}

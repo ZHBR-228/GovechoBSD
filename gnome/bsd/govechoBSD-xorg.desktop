@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=GovechoBSD GNOME (Xorg)
+Comment=GovechoBSD desktop powered by GNOME Shell on Xorg
+Exec=/usr/local/bin/gnome-session
+TryExec=/usr/local/bin/gnome-shell
+Icon=
+Type=Application
+DesktopNames=GNOME

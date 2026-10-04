@@ -96,12 +96,41 @@ foreach ($f in @('bsd/loader.conf','bsd/rc.conf','bsd/sysctl.conf','config/packa
         if (Test-Path $cand) { Copy-Item $cand $gv -Force; break }
     }
 }
+# --- GNOME-privyazki: razkladyvaem faily iz gnome/bsd po katalogam ISO ---
+$gdir = Join-Path $PSScriptRoot '..\gnome\bsd'
+$mpath = Join-Path $gdir 'manifest.json'
+if (Test-Path $mpath) {
+    $man = Get-Content $mpath -Raw | ConvertFrom-Json
+    foreach ($e in $man.files) {
+        $sF = Join-Path $PSScriptRoot ('..' + '\' + ($e.src -replace '/','\'))
+        if (Test-Path $sF) {
+            $dD = Join-Path $src ($e.dst -replace '/','\')
+            New-Item -ItemType Directory -Force -Path (Split-Path $dD) | Out-Null
+            Copy-Item $sF $dD -Force
+        }
+    }
+    Report 64 ("GNOME: razlozheno faizlov: " + @($man.files).Count)
+} elseif (Test-Path $gdir) {
+    Get-ChildItem $gdir -File | Where-Object Name -ne 'manifest.json' | ForEach-Object {
+        Copy-Item $_.FullName (Join-Path $gv $_.Name) -Force }
+}
+
 @"
 #!/bin/sh
 # GovechoBSD post-install hook: GNOME + start apps + zfs boot environment
-pkg install -y gnome shell-mate-desktop-lite firefox-esr 2>/dev/null || pkg install -y gnome firefox
-sysrc gnome_enable="YES" gdm_enable="YES" dbus_enable="YES" zfs_enable="YES"
-echo 'GovechoBSD: GNOME established. Pereklyuchite sessiyu GovechoBSD na ekrane GDM.'
+pkg install -y gnome-shell gdm mutter gnome-session gnome-terminal nautilus \
+  gnome-calculator gnome-system-monitor firefox htop vim 2>/dev/null \
+  || pkg install -y gnome firefox
+sysrc gnome_enable="YES" gdm_enable="YES" dbus_enable="YES" zfs_enable="YES" linux_enable="YES"
+# perenos GNOME-privyazok Govecho iz CDROM-obraza na sistemnyy disk:
+cp -n /cdrom/govecho/sessions/*.desktop /usr/local/share/wayland-sessions/ 2>/dev/null || true
+cp -n /cdrom/govecho/autostart/*.desktop /usr/local/etc/xdg/autostart/ 2>/dev/null || true
+cp -n /cdrom/govecho/applications/*.desktop /usr/local/share/applications/ 2>/dev/null || true
+mkdir -p /usr/local/etc/dconf/db/local.d
+cp -n /cdrom/govecho/dconf/30-govechoos /usr/local/etc/dconf/db/local.d/ 2>/dev/null || true
+cp -n /cdrom/govecho/gdm/custom.conf /usr/local/etc/gdm/custom.conf 2>/dev/null || true
+dconf update 2>/dev/null || true
+echo 'GovechoBSD: GNOME established + privyazki pereneseny. Sessiya GovechoBSD v GDM.'
 "@ | Set-Content (Join-Path $gv 'postinstall.sh') -Encoding ASCII
 
 # ---------- 4. Peresborka ISO (mkisofs/newfs cherez WSL) ----------

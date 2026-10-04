@@ -1,0 +1,12 @@
+[org/gnome/login-screen]
+banner-message-enable=true
+banner-message-text='Dobro pozhalovat v GovechoBSD! (FreeBSD + GNOME)'
+disable-user-list=false
+
+[org/gnome/desktop/interface]
+color-scheme='prefer-dark'
+gtk-theme='Adwaita-dark'
+
+[org/gnome/desktop/background]
+picture-options='none'
+primary-color='#0b3d2e'

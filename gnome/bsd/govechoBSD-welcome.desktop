@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=GovechoBSD Welcome
+Comment=Privetstvie GovechoBSD
+Exec=/usr/local/bin/govwelcome
+Icon=system-run
+Type=Application
+Categories=Utility;
+Terminal=false
+NoDisplay=false
+X-GNOME-Autostart-Enabled=true

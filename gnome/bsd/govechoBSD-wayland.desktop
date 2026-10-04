@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=GovechoBSD GNOME (Wayland)
+Comment=GovechoBSD desktop powered by GNOME Shell on FreeBSD
+Exec=/usr/local/bin/gnome-shell
+TryExec=/usr/local/bin/gnome-shell
+Icon=
+Type=Application
+DesktopNames=GNOME
+X-GDM-SessionRegisters=true

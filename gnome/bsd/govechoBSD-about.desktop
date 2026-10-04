@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=About GovechoBSD
+Comment=Informatsiya o GovechoBSD (FreeBSD + GNOME)
+Exec=/usr/local/bin/govctl info
+Icon=help-about
+Type=Application
+Categories=GNOME;Utility;
+Terminal=false
