@@ -1,4 +1,4 @@
-#Requires -Version 5.0
+﻿#Requires -Version 5.0
 <#
 .SYNOPSIS
     GovechoBSD - sborka ustanovochnogo ISO FreeBSD na Windows 10/11 (bez WSL!).
